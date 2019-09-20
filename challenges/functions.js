@@ -25,8 +25,6 @@ const add = function (a, b){
   
 
 
-
-
 const multiply = function (a, b ) {
     return a * b
   }
